@@ -1,4 +1,8 @@
-print(10+5)
+def add():
+   print(10+5)
 print(10-5)
 print(10*5)
 print(10/5)
+
+
+add()
